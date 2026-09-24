@@ -1,14 +1,14 @@
-# 🌈 PrideRide 🚗✨  
+# 🌈 GoGuay 🚗✨  
 
 **La app de movilidad compartida pensada para la comunidad LGBTQ+.**  
 
-PrideRide nace con el objetivo de crear un espacio seguro, inclusivo y diverso en los viajes compartidos.  
+GoGuay nace con el objetivo de crear un espacio seguro, inclusivo y diverso en los viajes compartidos.  
 Queremos que moverse no sea solo cuestión de llegar de un punto A a un punto B, sino de hacerlo en un entorno de confianza, respeto y comunidad.  
 
 ---
 
-## 🚀 ¿Qué es PrideRide?
-PrideRide es una aplicación inspirada en modelos como BlaBlaCar, pero con un enfoque totalmente inclusivo y orientado a la comunidad LGBTQ+.  
+## 🚀 ¿Qué es GoGuay?
+GoGuay es una aplicación inspirada en modelos como BlaBlaCar, pero con un enfoque totalmente inclusivo y orientado a la comunidad LGBTQ+.  
 
 A través de la app, podrás:  
 - 👥 Compartir coche con personas que comparten valores de respeto y diversidad.  
@@ -27,7 +27,7 @@ A través de la app, podrás:
 ---
 
 ## 👩‍💻👨‍💻 ¿Quiénes somos?
-PrideRide es un proyecto desarrollado con pasión y compromiso por dos personas que creen en la importancia de la inclusión en todos los ámbitos de la vida — también en la movilidad.  
+GoGuay es un proyecto desarrollado con pasión y compromiso por dos personas que creen en la importancia de la inclusión en todos los ámbitos de la vida — también en la movilidad.  
 
 - **Daniel G.D.** → Full Stack Developer.  
    
@@ -42,7 +42,7 @@ PrideRide es un proyecto desarrollado con pasión y compromiso por dos personas 
 Construir una alternativa de movilidad que no solo sea funcional y cómoda,  
 sino que además refuerce valores de respeto, inclusión y diversidad.  
 
-En PrideRide creemos que **viajar también puede ser un acto de orgullo**. 🌈  
+En GoGuay creemos que **viajar también puede ser un acto de orgullo**. 🌈  
 
 ---
 
@@ -52,7 +52,7 @@ En PrideRide creemos que **viajar también puede ser un acto de orgullo**. 🌈
 ---
 
 ## 🤝 Contribuir
-PrideRide está abierto a ideas, feedback y colaboración.  
+GoGuay está abierto a ideas, feedback y colaboración.  
 Si quieres aportar, ¡escríbenos!  
 
 
@@ -79,7 +79,7 @@ Si quieres aportar, ¡escríbenos!
 
 python app.py
 
-Recovery Code Twilio:  Q8FCGG71FFFUQ7H17DPJFCGD
+
 
 
 # Comando para construir build para DOCKER DESKTOP
